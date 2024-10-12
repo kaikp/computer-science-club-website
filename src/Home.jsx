@@ -44,7 +44,7 @@ function Home(){
       
         <div className = "WelcomePage">
        <h1 id ="WelcomeName"> Welcome To Los Medanoss Computer Scinece Club</h1>
-        <p id="WelcomeMessege">Club Meetings happend every friday on <a>Discord!</a></p>
+        <p id="WelcomeMessege">Club Meetings happen every friday at 8PM on <a>Discord!</a></p>
         </div>
         <div id = "MoreInfoClub">
         <img id="COMSCIIMAGEE" alt = "COMSCI CLUB IMAGE"  src = {logo}/>
